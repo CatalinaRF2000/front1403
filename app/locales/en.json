@@ -1,0 +1,198 @@
+{
+  "home": {
+    "title": "AllShows - Entertainment Agency",
+    "description": "High-level shows for hotels, private, and corporate events.",
+    "servicesTitle": "What We Offer",
+    "service1": "High-quality performances",
+    "service2": "National and international artists",
+    "service3": "Customized shows for every event",
+    "service4": "Specialized in hotels and exclusive events",
+    "contactTitle": "Contact Us",
+    "openMaps": "Open in Google Maps",
+    "phone": "Phone",
+    "email": "Email",
+        "followUs": "Follow us on our social media"
+  },
+  "form": {
+    "title": "Contact Form",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Your Message",
+    "send": "Send",
+    "subject": "Inquiry from the website"
+  },
+  "whatsapp": {
+    "chat": "Chat with us on WhatsApp!"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "At Allshows, we offer unforgettable experiences combining fun, safety, and professionalism."
+  },
+  "shows": {
+    "title": "Our Shows",
+    "categories": {
+      "Visuales": "Visual Performances",
+      "Live": "Live Music",
+      "Tributos": "Tributes",
+      "Exclusivas": "Exclusive Acts"
+    },
+    "subcategories": {
+      "Flamenco Danza": "Flamenco & Dance",
+      "Infantil Magia": "Kids & Magic",
+      "Duo": "Duo",
+      "Solista": "Soloist",
+      "Tríos Bandas": "Trios & Bands"
+    }
+  },
+  "animation": {
+      "title": "Tourist Entertainment",
+      "description": "We offer unique and personalized tourist entertainment services to make your events and vacations an unforgettable experience. Our team consists of entertainment experts, ensuring fun and quality for all ages.",
+      "featuresTitle": "What do we offer?",
+      "feature1": "Children's Animation",
+      "feature2": "Fitness Classes",
+      "feature3": "Night Shows",
+      "ctaText": "Interested in our tourist animation services?",
+      "ctaSubText": "Contact us for more information or a personalized quote.",
+      "whatsappButton": "Consult via WhatsApp",
+      "whatsappMessage": "Hello! I am interested in the animation services."
+    },
+    "lifeguard": {
+    "title": "Lifeguard Services",
+    "description": "At AllShows, we guarantee safety and well-being at pools, beaches, and aquatic events. Our team of highly trained lifeguards ensures that every experience is safe and enjoyable.",
+    "featuresTitle": "What do we offer?",
+    "feature1": "Certified and trained lifeguards",
+    "feature2": "Supervision at pools and beaches",
+    "feature3": "Rescue equipment and first aid",
+    "feature4": "Coverage for special events",
+    "ctaText": "Interested in our lifeguard services?",
+    "ctaSubText": "Contact us for more information or a personalized quote.",
+    "whatsappButton": "Consult via WhatsApp",
+    "whatsappMessage": "Hello! I am interested in the lifeguard services."
+  },
+  "events": {
+    "title": "Special Events",
+    "category1": {
+      "title": "🎉 Weddings and Celebrations",
+      "event1": "Personalized ceremonies",
+      "event2": "Light shows",
+      "event3": "Live music performances"
+    },
+    "category2": {
+      "title": "🏢 Corporate Events",
+      "event1": "Conferences and seminars",
+      "event2": "Team building",
+      "event3": "Galas and awards"
+    },
+    "category3": {
+      "title": "🎭 Festivals and Fairs",
+      "event1": "Traveling performances",
+      "event2": "Magic shows",
+      "event3": "Concerts for large audiences"
+    },
+    "category4": {
+      "title": "🎭 Themed Events",
+      "event1": "Themed parties",
+      "event2": "Christmas events",
+      "event3": "Cultural celebrations"
+    },
+    "whatsappMessage": "Hello! I would like to inquire about prices for special events.",
+    "whatsappButton": "Check prices via WhatsApp"
+  },
+  "layout": {
+    "shows": "Shows",
+    "animation": "Animation",
+    "lifeguard": "Lifeguard",
+    "events": "Special Events",
+    "contact": "Contact",
+    "login": "Login",
+    "footer": "Developed by Catalina Requena Ferrario"
+  },
+
+  "user": {
+    "welcome": "Welcome, {{name}}",
+    "account": "{{role}} account",
+    "calendar": "Go to Calendar",
+    "files": "Go to My Files",
+    "changePassword": "Change Password",
+    "logout": "Log Out",
+    "loading": "Loading data...",
+    "noData": "No user data found.",
+    "error": "Error",
+    "noToken": "No token found. Please log in.",
+    "fetchError": "Error fetching user data:",
+    "dataError": "User data could not be loaded.",
+    "logoutError": "Error logging out",
+    "logoutErrorMsg": "There was a problem logging out."
+  },
+  "files": {
+    "title": "My Files",
+    "nominas": "Payslips",
+    "facturas": "Invoices",
+    "loading": "Loading files...",
+    "uploadedOn": "Uploaded on",
+    "error": "Error",
+    "errorRole": "Could not retrieve user role.",
+    "noToken": "Authentication token not found.",
+    "noUserId": "User ID not found.",
+    "loadError": "Could not load files."
+  },
+  "password": {
+    "changeTitle": "Change Password",
+    "current": "Current Password",
+    "new": "New Password",
+    "confirm": "Confirm New Password",
+    "updateButton": "Update Password",
+    "back": "Back"
+  },
+  "error": {
+    "title": "Error",
+    "fillAllFields": "Please fill in all fields.",
+    "passwordMismatch": "New password and confirmation do not match.",
+    "noToken": "Token not found. Please log in.",
+    "generic": "An unexpected error occurred."
+  },
+  "success": {
+    "title": "Success",
+    "passwordChanged": "Password has been changed successfully."
+  },
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign In",
+    "no_account": "Don't have an account?",
+    "register": "Register",
+    "forgot_password": "I forgot my password",
+    "fill_all_fields": "Please fill in all fields.",
+    "attempting_login": "Attempting to log in with:",
+    "api_response": "API response:",
+    "token_saved": "Token saved successfully:",
+    "success": "Login successful",
+    "welcome": "Welcome",
+    "invalid_credentials": "Invalid credentials",
+    "unknown_error": "Unknown error:",
+    "unexpected_error": "An unexpected error occurred.",
+    "password_reset_request": "Password Reset Request",
+    "password_reset_body": "I request a password reset for my account [insert username].",
+    "email_open_error": "Error opening email"
+  },
+  "register": {
+    "createAccount": "Create Account",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "register": "Register",
+    "error": "Error",
+    "allFieldsRequired": "All fields are required.",
+    "passwordsDontMatch": "Passwords do not match.",
+    "success": "Success",
+    "accountCreated": "Your account has been created successfully.",
+    "registrationFailed": "Registration failed.",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Login"
+  }
+
+
+    
+}

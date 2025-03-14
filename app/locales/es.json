@@ -1,0 +1,203 @@
+{
+  "home": {
+    "title": "AllShows - Agencia de Espectáculos",
+    "description": "Espectáculos de alto nivel para hoteles, eventos privados y corporativos.",
+    "servicesTitle": "¿Qué Ofrecemos?",
+    "service1": "Espectáculos de alta calidad",
+    "service2": "Artistas nacionales e internacionales",
+    "service3": "Shows personalizados según el evento",
+    "service4": "Especializados en hoteles y eventos exclusivos",
+    "contactTitle": "Contáctanos",
+    "openMaps": "Abrir en Google Maps",
+    "phone": "Teléfono",
+    "email": "Email",
+        "followUs": "Síguenos en nuestras redes sociales"
+  },
+  "form": {
+    "title": "Formulario de Contacto",
+    "name": "Tu nombre",
+    "email": "Tu email",
+    "message": "Tu mensaje",
+    "send": "Enviar",
+    "subject": "Consulta desde la web"
+  },
+  "whatsapp": {
+    "chat": "¡Chatea con nosotros en WhatsApp!"
+  },
+  "mission": {
+    "title": "Nuestra Misión",
+    "description": "En Allshows, ofrecemos experiencias inolvidables que combinan diversión, seguridad y profesionalismo."
+  },
+
+    "shows": {
+      "title": "Nuestros Shows",
+      "categories": {
+        "Visuales": "Visuales",
+        "Live": "Live",
+        "Tributos": "Tributos",
+        "Exclusivas": "Exclusivas"
+      },
+      "subcategories": {
+        "Flamenco Danza": "Flamenco Danza",
+        "Infantil Magia": "Infantil y Magia",
+        "Duo": "Dúo",
+        "Solista": "Solista",
+        "Tríos Bandas": "Tríos y Bandas"
+      }
+      
+    },
+
+    
+      "animation": {
+        "title": "Animación Turística",
+        "description": "Ofrecemos servicios de animación turística únicos y personalizados para hacer de tus eventos y vacaciones una experiencia inolvidable. Nuestro equipo está formado por expertos en entretenimiento, asegurando diversión y calidad para todas las edades.",
+        "featuresTitle": "¿Qué ofrecemos?",
+        "feature1": "Animación Infantil",
+        "feature2": "Clases de Fitness",
+        "feature3": "Espectáculos Nocturnos",
+        "ctaText": "¿Interesado en nuestros servicios de animación turística?",
+        "ctaSubText": "Contáctanos para más información o una cotización personalizada.",
+        "whatsappButton": "Consultar por WhatsApp",
+        "whatsappMessage": "¡Hola! Estoy interesado en los servicios de animación."
+      
+    },
+    "lifeguard": {
+    "title": "Servicios de Socorrismo",
+    "description": "En AllShows, garantizamos la seguridad y bienestar en piscinas, playas y eventos acuáticos. Contamos con un equipo de socorristas altamente capacitados para asegurar que cada experiencia sea segura y placentera.",
+    "featuresTitle": "¿Qué ofrecemos?",
+    "feature1": "Socorristas certificados y capacitados",
+    "feature2": "Supervisión en piscinas y playas",
+    "feature3": "Equipamiento de rescate y primeros auxilios",
+    "feature4": "Cobertura para eventos especiales",
+    "ctaText": "¿Interesado en nuestros servicios de socorrismo?",
+    "ctaSubText": "Contáctanos para más información o una cotización personalizada.",
+    "whatsappButton": "Consultar por WhatsApp",
+    "whatsappMessage": "¡Hola! Estoy interesado en los servicios de socorrismo."
+  },
+  "events": {
+    "title": "Eventos Especiales",
+    "category1": {
+      "title": "🎉 Bodas y Celebraciones",
+      "event1": "Ceremonias personalizadas",
+      "event2": "Espectáculos de luz",
+      "event3": "Show de música en vivo"
+    },
+    "category2": {
+      "title": "🏢 Eventos Corporativos",
+      "event1": "Conferencias y seminarios",
+      "event2": "Team building",
+      "event3": "Galas y premios"
+    },
+    "category3": {
+      "title": "🎭 Festivales y Ferias",
+      "event1": "Espectáculos itinerantes",
+      "event2": "Shows de magia",
+      "event3": "Conciertos para grandes audiencias"
+    },
+    "category4": {
+      "title": "🎭 Eventos Temáticos",
+      "event1": "Fiestas temáticas",
+      "event2": "Eventos navideños",
+      "event3": "Celebraciones culturales"
+    },
+    "whatsappMessage": "¡Hola! Me gustaría consultar precios sobre eventos especiales.",
+    "whatsappButton": "Consultar precios por WhatsApp"
+  },
+  "layout": {
+    "shows": "Shows",
+    "animation": "Animación",
+    "lifeguard": "Socorrismo",
+    "events": "Eventos Especiales",
+    "contact": "Contacto",
+    "login": "Login",
+    "footer": "Desarrollado por Catalina Requena Ferrario"
+  },
+  "user": {
+    "welcome": "Bienvenid@, {{name}}",
+    "account": "Cuenta de {{role}}",
+    "calendar": "Ir al Calendario",
+    "files": "Ir a Mis Archivos",
+    "changePassword": "Cambiar Contraseña",
+    "logout": "Cerrar Sesión",
+    "loading": "Cargando datos...",
+    "noData": "No se encontraron datos del usuario.",
+    "error": "Error",
+    "noToken": "No se encontró el Token. Por favor, inicia sesión.",
+    "fetchError": "Error al obtener los datos del usuario:",
+    "dataError": "No se pudieron cargar los datos del usuario.",
+    "logoutError": "Error al cerrar sesión",
+    "logoutErrorMsg": "Hubo un problema al cerrar la sesión."
+  },
+
+  "files": {
+    "title": "Mis Archivos",
+    "nominas": "Nóminas",
+    "facturas": "Facturas",
+    "loading": "Cargando archivos...",
+    "uploadedOn": "Subido el",
+    "error": "Error",
+    "errorRole": "No se pudo obtener el rol del usuario.",
+    "noToken": "No se encontró un token de autenticación.",
+    "noUserId": "No se encontró el ID del usuario.",
+    "loadError": "No se pudieron cargar los archivos."
+  },
+
+  "password": {
+    "changeTitle": "Cambiar Contraseña",
+    "current": "Contraseña Actual",
+    "new": "Nueva Contraseña",
+    "confirm": "Confirmar Nueva Contraseña",
+    "updateButton": "Actualizar Contraseña",
+    "back": "Volver"
+  },
+  "error": {
+    "title": "Error",
+    "fillAllFields": "Por favor, complete todos los campos.",
+    "passwordMismatch": "La nueva contraseña y su confirmación no coinciden.",
+    "noToken": "No se encontró el token. Por favor, inicia sesión.",
+    "generic": "Ocurrió un error inesperado."
+  },
+  "success": {
+    "title": "Éxito",
+    "passwordChanged": "La contraseña se ha cambiado correctamente."},
+  "login": {
+    "title": "Iniciar Sesión",
+    "email": "Correo",
+    "password": "Contraseña",
+    "submit": "Entrar",
+    "no_account": "¿No tienes cuenta?",
+    "register": "Registrarse",
+    "forgot_password": "No recuerdo la contraseña",
+    "fill_all_fields": "Por favor, complete todos los campos.",
+    "attempting_login": "Intentando iniciar sesión con:",
+    "api_response": "Respuesta de la API:",
+    "token_saved": "Token guardado correctamente:",
+    "success": "Inicio de sesión exitoso",
+    "welcome": "Bienvenido",
+    "invalid_credentials": "Credenciales incorrectas",
+    "unknown_error": "Error desconocido:",
+    "unexpected_error": "Ocurrió un error inesperado.",
+    "password_reset_request": "Solicitud de restablecimiento de contraseña",
+    "password_reset_body": "Solicito restablecimiento de contraseña para mi cuenta [insertar nombre de usuario].",
+    "email_open_error": "Error al abrir email"
+  },
+  "register": {
+    "createAccount": "Crear Cuenta",
+    "name": "Nombre",
+    "email": "Correo",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "register": "Registrarse",
+    "error": "Error",
+    "allFieldsRequired": "Todos los campos son obligatorios.",
+    "passwordsDontMatch": "Las contraseñas no coinciden.",
+    "success": "Registro exitoso",
+    "accountCreated": "Tu cuenta ha sido creada correctamente.",
+    "registrationFailed": "No se pudo completar el registro.",
+    "alreadyHaveAccount": "¿Ya tienes cuenta?",
+    "login": "Iniciar sesión"
+  }
+    
+    
+  }
+  

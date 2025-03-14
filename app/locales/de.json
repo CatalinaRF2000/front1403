@@ -1,0 +1,216 @@
+{
+  "home": {
+    "title": "AllShows - Unterhaltungsagentur",
+    "description": "Hochwertige Shows für Hotels, private und geschäftliche Veranstaltungen.",
+    "servicesTitle": "Was wir anbieten",
+    "service1": "Hochwertige Aufführungen",
+    "service2": "Nationale und internationale Künstler",
+    "service3": "Maßgeschneiderte Shows für jedes Event",
+    "service4": "Spezialisiert auf Hotels und exklusive Veranstaltungen",
+    "contactTitle": "Kontaktiere uns",
+    "openMaps": "In Google Maps öffnen",
+    "phone": "Telefon",
+    "email": "E-Mail",
+        "followUs": "Folge uns in den sozialen Medien"
+  },
+  "form": {
+    "title": "Kontaktformular",
+    "name": "Ihr Name",
+    "email": "Ihre E-Mail",
+    "message": "Ihre Nachricht",
+    "send": "Senden",
+    "subject": "Anfrage von der Website"
+  },
+  "whatsapp": {
+    "chat": "Chatten Sie mit uns auf WhatsApp!"
+  },
+  "mission": {
+    "title": "Unsere Mission",
+    "description": "Bei Allshows bieten wir unvergessliche Erlebnisse, die Spaß, Sicherheit und Professionalität vereinen."
+  },
+  "shows": {
+    "title": "Unsere Shows",
+    "categories": {
+      "Visuales": "Visuelle Darbietungen",
+      "Live": "Live-Musik",
+      "Tributos": "Tribute",
+      "Exclusivas": "Exklusive Acts"
+    },
+    "subcategories": {
+      "Flamenco Danza": "Flamenco & Tanz",
+      "Infantil Magia": "Kinder & Magie",
+      "Duo": "Duo",
+      "Solista": "Solokünstler",
+      "Tríos Bandas": "Trios & Bands"
+    },
+    
+      "animation": {
+        "title": "Touristische Animation",
+        "description": "Wir bieten einzigartige und personalisierte touristische Animationsdienste, um Ihre Veranstaltungen und Ferien zu einem unvergesslichen Erlebnis zu machen. Unser Team besteht aus Unterhaltungsexperten, die Spaß und Qualität für alle Altersgruppen garantieren.",
+        "featuresTitle": "Was bieten wir an?",
+        "feature1": "Kinderanimation",
+        "feature2": "Fitnesskurse",
+        "feature3": "Abendshows",
+        "ctaText": "Interessiert an unseren touristischen Animationsdiensten?",
+        "ctaSubText": "Kontaktieren Sie uns für weitere Informationen oder ein individuelles Angebot.",
+        "whatsappButton": "Über WhatsApp anfragen",
+        "whatsappMessage": "Hallo! Ich interessiere mich für die Animationsdienste."
+      
+    }
+    
+  },
+  
+    "animation": {
+      "title": "Touristische Animation",
+      "description": "Wir bieten einzigartige und personalisierte touristische Animationsdienste, um Ihre Veranstaltungen und Ferien zu einem unvergesslichen Erlebnis zu machen. Unser Team besteht aus Unterhaltungsexperten, die Spaß und Qualität für alle Altersgruppen garantieren.",
+      "featuresTitle": "Was bieten wir an?",
+      "feature1": "Kinderanimation",
+      "feature2": "Fitnesskurse",
+      "feature3": "Abendshows",
+      "ctaText": "Interessiert an unseren touristischen Animationsdiensten?",
+      "ctaSubText": "Kontaktieren Sie uns für weitere Informationen oder ein individuelles Angebot.",
+      "whatsappButton": "Über WhatsApp anfragen",
+      "whatsappMessage": "Hallo! Ich interessiere mich für die Animationsdienste."
+    
+  },
+
+  "lifeguard": {
+    "title": "Rettungsschwimmer-Dienstleistungen",
+    "description": "Bei AllShows garantieren wir Sicherheit und Wohlbefinden in Schwimmbädern, an Stränden und bei Wassersportveranstaltungen. Unser Team aus hochqualifizierten Rettungsschwimmern sorgt dafür, dass jede Erfahrung sicher und angenehm ist.",
+    "featuresTitle": "Was bieten wir an?",
+    "feature1": "Zertifizierte und geschulte Rettungsschwimmer",
+    "feature2": "Überwachung in Schwimmbädern und an Stränden",
+    "feature3": "Rettungsausrüstung und Erste Hilfe",
+    "feature4": "Abdeckung für besondere Veranstaltungen",
+    "ctaText": "Interessiert an unseren Rettungsschwimmer-Dienstleistungen?",
+    "ctaSubText": "Kontaktieren Sie uns für weitere Informationen oder ein individuelles Angebot.",
+    "whatsappButton": "Über WhatsApp anfragen",
+    "whatsappMessage": "Hallo! Ich interessiere mich für die Rettungsschwimmer-Dienstleistungen."
+  },
+
+  "events": {
+    "title": "Spezielle Veranstaltungen",
+    "category1": {
+      "title": "🎉 Hochzeiten und Feiern",
+      "event1": "Personalisierte Zeremonien",
+      "event2": "Lichtshows",
+      "event3": "Live-Musikauftritte"
+    },
+    "category2": {
+      "title": "🏢 Firmenveranstaltungen",
+      "event1": "Konferenzen und Seminare",
+      "event2": "Teambuilding",
+      "event3": "Galaabende und Preisverleihungen"
+    },
+    "category3": {
+      "title": "🎭 Festivals und Messen",
+      "event1": "Reisende Aufführungen",
+      "event2": "Zaubershows",
+      "event3": "Konzerte für großes Publikum"
+    },
+    "category4": {
+      "title": "🎭 Themenveranstaltungen",
+      "event1": "Mottopartys",
+      "event2": "Weihnachtsveranstaltungen",
+      "event3": "Kulturelle Feiern"
+    },
+    "whatsappMessage": "Hallo! Ich möchte mich über die Preise für spezielle Veranstaltungen informieren.",
+    "whatsappButton": "Preise über WhatsApp anfragen"
+  },
+  "layout": {
+    "shows": "Shows",
+    "animation": "Animation",
+    "lifeguard": "Rettungsschwimmer",
+    "events": "Spezielle Veranstaltungen",
+    "contact": "Kontakt",
+    "login": "Anmelden",
+    "footer": "Entwickelt von Catalina Requena Ferrario"
+  },
+
+  "user": {
+    "welcome": "Willkommen, {{name}}",
+    "account": "{{role}}-Konto",
+    "calendar": "Zum Kalender gehen",
+    "files": "Zu meinen Dateien",
+    "changePassword": "Passwort ändern",
+    "logout": "Abmelden",
+    "loading": "Daten werden geladen...",
+    "noData": "Keine Benutzerdaten gefunden.",
+    "error": "Fehler",
+    "noToken": "Kein Token gefunden. Bitte anmelden.",
+    "fetchError": "Fehler beim Abrufen der Benutzerdaten:",
+    "dataError": "Benutzerdaten konnten nicht geladen werden.",
+    "logoutError": "Fehler beim Abmelden",
+    "logoutErrorMsg": "Es gab ein Problem beim Abmelden."
+  },
+  "files": {
+    "title": "Meine Dateien",
+    "nominas": "Gehaltsabrechnungen",
+    "facturas": "Rechnungen",
+    "loading": "Dateien werden geladen...",
+    "uploadedOn": "Hochgeladen am",
+    "error": "Fehler",
+    "errorRole": "Benutzerrolle konnte nicht abgerufen werden.",
+    "noToken": "Authentifizierungstoken nicht gefunden.",
+    "noUserId": "Benutzer-ID nicht gefunden.",
+    "loadError": "Dateien konnten nicht geladen werden."
+  },
+  "password": {
+    "changeTitle": "Passwort ändern",
+    "current": "Aktuelles Passwort",
+    "new": "Neues Passwort",
+    "confirm": "Neues Passwort bestätigen",
+    "updateButton": "Passwort aktualisieren",
+    "back": "Zurück"
+  },
+  "error": {
+    "title": "Fehler",
+    "fillAllFields": "Bitte füllen Sie alle Felder aus.",
+    "passwordMismatch": "Das neue Passwort und die Bestätigung stimmen nicht überein.",
+    "noToken": "Token nicht gefunden. Bitte melden Sie sich an.",
+    "generic": "Ein unerwarteter Fehler ist aufgetreten."
+  },
+  "success": {
+    "title": "Erfolg",
+    "passwordChanged": "Passwort wurde erfolgreich geändert."
+  },
+  "login": {
+    "title": "Anmeldung",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "submit": "Einloggen",
+    "no_account": "Noch kein Konto?",
+    "register": "Registrieren",
+    "forgot_password": "Ich habe mein Passwort vergessen",
+    "fill_all_fields": "Bitte füllen Sie alle Felder aus.",
+    "attempting_login": "Anmeldeversuch mit:",
+    "api_response": "API-Antwort:",
+    "token_saved": "Token erfolgreich gespeichert:",
+    "success": "Anmeldung erfolgreich",
+    "welcome": "Willkommen",
+    "invalid_credentials": "Ungültige Anmeldeinformationen",
+    "unknown_error": "Unbekannter Fehler:",
+    "unexpected_error": "Ein unerwarteter Fehler ist aufgetreten.",
+    "password_reset_request": "Passwort-Zurücksetzungsanfrage",
+    "password_reset_body": "Ich beantrage eine Passwortzurücksetzung für mein Konto [Benutzernamen einfügen].",
+    "email_open_error": "Fehler beim Öffnen der E-Mail"
+  },
+  "register": {
+    "createAccount": "Konto erstellen",
+    "name": "Name",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "register": "Registrieren",
+    "error": "Fehler",
+    "allFieldsRequired": "Alle Felder sind erforderlich.",
+    "passwordsDontMatch": "Die Passwörter stimmen nicht überein.",
+    "success": "Erfolg",
+    "accountCreated": "Ihr Konto wurde erfolgreich erstellt.",
+    "registrationFailed": "Registrierung fehlgeschlagen.",
+    "alreadyHaveAccount": "Haben Sie schon ein Konto?",
+    "login": "Einloggen"
+  }
+  
+  
+}
